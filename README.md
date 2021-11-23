@@ -1,8 +1,9 @@
-# stable-defi
+# defi-stake-yield-brownie
+
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
-<img src="./web-image.png" width="500" alt="stable-defi">
+<img src="./web-image.png" width="500" alt="Full Stack Example">
 </a>
 </p>
 <br/>
