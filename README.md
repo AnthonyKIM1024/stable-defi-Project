@@ -1,9 +1,9 @@
-# defi-stake-yield-brownie
+# stable-defi
 
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
-<img src="./web-image.png" width="500" alt="Full Stack Example">
+<img src="./web-image.png" width="500" alt="stable-defi">
 </a>
 </p>
 <br/>
@@ -18,7 +18,7 @@ This is a repo to build your own full stack defi staking application for yield f
 
 And more!
 
-- [defi-stake-yield-brownie](#defi-stake-yield-brownie)
+- [stable-defi](#stable-defi)
   - [Summary](#summary)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -53,8 +53,8 @@ pip install eth-brownie
 
 2. Clone this repo
 ```
-git clone https://github.com/PatrickAlphaC/defi-stake-yield-brownie
-cd defi-stake-yield-brownie
+git clone https://github.com/AnthonyKIM1024/stable-defi-Project.git
+cd stable-defi
 ```
 
 1. [Install ganache-cli](https://www.npmjs.com/package/ganache-cli)
